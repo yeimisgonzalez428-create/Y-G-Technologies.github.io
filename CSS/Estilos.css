@@ -1,0 +1,43 @@
+.fondo 
+{
+background-image: url(Imagenes/Imagen1.jpg); 
+height: 100vh;
+background-repeat: no-repeat;
+background-position: 200pxpx 250px;
+margin: 0;
+ }
+ .Computador{
+ 	width: 200px;
+    text-align: center;
+    margin: 30px 100px;
+}
+.Computador img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+ }
+
+.fondo2{
+display: block;
+width: 200px;
+margin: 0 auto;
+text-align: center;
+}
+.fondo3{
+display: block;
+width: 200px;
+margin: 0 auto;
+text-align: center;
+}
+.fondo4{
+display: block;
+width: 200px;
+margin: 0 auto;
+text-align: center;
+}
+.etiquetas {
+   display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
